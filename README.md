@@ -12,7 +12,8 @@ You can just open it and run it.
 
 ## Tools used
 Pycharm
-Selenium
+Selenium IDE
+Katalon Recorder
 
 ## Authors and acknowledgment
 I'd like to thank all the guide writers, stack overflowers who provide alternative codes for when the one I was trying to use wasn't working. I'd also like to thank You for the opportunity!
